@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    padding: 0.3rem 0.2rem;
+    margin: 0.1rem;
+    font-family: 'Poppins', sans-serif;
+    background: #658e9c;
+
+}
+img
+{
+    border-radius: 16rem;
+    width: 10rem;
+    height: 10rem;
+}
+h1
+{
+    text-align: center;
+}
+h2
+{
+    text-align: start;
+}
+h3
+{
+    text-align: start;
+}
+p
+{
+    font-size: 1rem;
+
+}
+button
+{
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+.meal_ingredients
+{
+    padding: 1rem 0.3rem;
+    font-size: 0.8rem;
+    text-align: left;
+}
